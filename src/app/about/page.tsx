@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 const AboutPage = () => {
   return (
-    <>3
+    <>
       <section className="bg-gradient-to-br from-white via-blue-50 to-white py-24 text-center relative overflow-hidden">
         <div className="container">
           <h1 className="mb-4 text-4xl md:text-5xl font-bold text-blue-900 animate-fade-in-up"
