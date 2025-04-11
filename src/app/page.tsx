@@ -9,8 +9,8 @@ import { Metadata } from "next";
 import Workshops from "./workshops/page";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "BridgeX",
+  description: "Discover your path through real industry immersion, expert mentorship, and future-proof skills for long-term success",
   // other metadata
 };
 

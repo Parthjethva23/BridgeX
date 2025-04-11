@@ -1,69 +1,58 @@
-<<<<<<< HEAD
 # BridgeX
-=======
-# Startup - Free Next.js Startup Website Template
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+BridgeX is a student-focused experiential learning platform that helps high schoolers discover their future through real industry exposure, practical skills, and expert mentorship. With hands-on workshops across diverse fields like medicine, entrepreneurship, and technology, BridgeX empowers students to make informed career decisions before stepping into university life.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+## 🚀 What is BridgeX?
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+BridgeX is more than a platform—it's a movement. We're redefining how students explore careers by offering immersive, one-day workshops designed to help them experience real-world industries in a guided, safe, and exciting environment.
 
-### 🙌 Detailed comparison between the Free and Pro versions of Startup
+Whether you're curious about becoming a doctor, a founder, or a coder—BridgeX gives you the clarity you need through real experiences, not just advice.
 
-| Feature             | Free | Pro |
-|---------------------|------------|----------|
-| Next.js Landing Page             | ✅ Yes      | ✅ Yes      |
-| All The Integrations - Auth, DB, Payments, Blog and many more ...             | ❌ No      | ✅ Yes |
-| Homepage Variations             | 1      | 2 |
-| Additional SaaS Pages and Components             | ❌ No      | ✅ Yes |
-| Functional Blog with Sanity       | ❌ No      | ✅ Yes | ✅ Yes |
-| Use with Commercial Projects            | ✅ Yes      | ✅ Yes      |
-| Lifetime Free Updates             | ✅ Yes      | ✅ Yes |
-| Email Support       | ❌ No         | ✅ Yes       |
-| Community Support         | ✅ Yes         | ✅ Yes       |
+---
 
+## ✨ Key Features
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+- ✅ Curated one-day immersive workshops
+- ✅ Real industry mentors and professionals
+- ✅ Hands-on, practical exposure
+- ✅ Workshop tracks across Medicine, Startups, Tech & more
+- ✅ Perfect for high school students exploring careers
+- ✅ Based in India & Pakistan with plans to scale globally
+- ✅ Built with Next.js & Tailwind CSS
 
-[![Startup Pro](https://raw.githubusercontent.com/NextJSTemplates/startup-nextjs/main/startup-pro.webp)](https://nextjstemplates.com/templates/saas-starter-startup)
+---
 
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
+## 🧑‍🎓 Ideal For
 
+- High school students (Grades 9–12)
+- Career counselors and education consultants
+- Schools seeking career readiness partners
+- Parents who want early exposure for their kids
 
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+---
 
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+## 🔥 Live Website
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+[Visit BridgeX Website](https://bridge-x-two.vercel.app/) 
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+---
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+## 🛠 Tech Stack
 
-### ⚡ Deploy Now
+- **Framework:** Next.js 15
+- **Styling:** Tailwind CSS
+- **Icons & UI:** Shadcn/UI, Lucide
+- **Fonts:** Inter (Google Fonts)
+- **Design:** Modern, youth-focused, responsive
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+---
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+## 🧾 License
 
+BridgeX is proprietary software under development for educational and commercial use. Please contact us for collaboration or partnership opportunities.
 
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+---
 
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+## 💬 Contact & Support
 
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
-
-### Update Log
-**29 Jan 2025**
-- Upgraded to Next.js 15
->>>>>>> 53c2655 (Initial commit)
+- 📧 Email: parthjethva0723@gmail.com/hirafatimaa718@gmail.com 
