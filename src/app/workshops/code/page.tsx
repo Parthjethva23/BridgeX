@@ -24,7 +24,7 @@ const CodeWorkshop = () => {
           style={{ top: "120px", left: "-350px", position: "relative" }}
         >
           <Image
-            src="/images/blog/code.jpg"
+            src="/images/workshop/coder.webp"
             alt="Tech & Coding Lab"
             width={700}
             height={400}

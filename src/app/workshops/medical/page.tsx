@@ -20,7 +20,7 @@ const MedicalWorkshop = () => {
     style={{ top: "120px", left: "-350px", position: "relative" }} 
     >
       <Image
-        src="/images/blog/medical.jpg"
+        src="/images/workshop/medical.jpg"
         alt="Discover Medicine"
         width={700}
         height={400}

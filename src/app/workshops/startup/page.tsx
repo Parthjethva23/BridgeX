@@ -84,7 +84,7 @@ const StartupWorkshop = () => {
           </div>
 
           <Image
-            src="/images/blog/startup1.jpeg"
+            src="/images/workshop/startup1.jpeg"
             alt="Build a Startup"
             width={700}
             height={400}
