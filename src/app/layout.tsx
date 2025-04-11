@@ -16,7 +16,10 @@ export default function RootLayout({
 }) {
   return (
     <html suppressHydrationWarning lang="en">
-      <head />
+      <head>
+        
+        <link rel="icon" href="/favicon.ico" />
+      </head>
       <body className={`bg-[#FCFCFC] ${inter.className}`}>
         <Header />
         {children}
