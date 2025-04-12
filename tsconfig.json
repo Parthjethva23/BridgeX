@@ -7,9 +7,7 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"]
     },
     "allowJs": true,
     "skipLibCheck": true,
@@ -35,7 +33,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "src/lib/mongodb.js", "src/app/api/subscribe/route.js", "src/models/Subscriber.ts", "lib/mongodb.js"  ],
   "exclude": [
     "node_modules"
   ]

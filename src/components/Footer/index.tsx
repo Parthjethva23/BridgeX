@@ -96,7 +96,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="hover:text-blue-600 transition">
+                <Link href="/our-story" className="hover:text-blue-600 transition">
                   Our Story
                 </Link>
               </li>
