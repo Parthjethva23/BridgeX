@@ -33,10 +33,20 @@ export default function SigninPageClient() {
       // ✅ Set login state in localStorage
       localStorage.setItem("isLoggedIn", "true");
 
-      // ✅ Redirect to home (Header will auto-update)
-      router.push("/");
+      // ✅ Redirect to dashboard page
+      router.push("/dashboard"); // Redirecting to dashboard
+    } else {
+      console.error("Sign-in failed", data.message); // Debugging the error
     }
   };
+
+  useEffect(() => {
+    // Check if user is logged in
+    const isLoggedIn = localStorage.getItem("isLoggedIn");
+    if (isLoggedIn) {
+      router.push("/dashboard");
+    }
+  }, [router]);
 
   return (
     <section className="relative z-10 overflow-hidden pb-16 pt-36 md:pb-20 lg:pb-28 lg:pt-[180px]">
@@ -81,7 +91,14 @@ export default function SigninPageClient() {
                   <div className="mb-4 sm:mb-0">
                     <label htmlFor="checkboxLabel" className="flex cursor-pointer select-none items-center text-sm font-medium text-body-color">
                       <div className="relative">
-                        <input type="checkbox" id="checkboxLabel" className="sr-only" />
+                        <input
+                          type="checkbox"
+                          id="checkboxLabel"
+                          className="sr-only"
+                          onChange={() => {
+                            // Store the state of 'Remember me' if necessary
+                          }}
+                        />
                         <div className="box mr-4 flex h-5 w-5 items-center justify-center rounded border border-body-color border-opacity-20 dark:border-white dark:border-opacity-10">
                           <span className="opacity-0"></span>
                         </div>
