@@ -32,8 +32,12 @@
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "src/lib/mongodb.js", "src/app/api/subscribe/route.js", "src/models/Subscriber.ts", "lib/mongodb.js"  ],
+    "**/*.tsx",
+    "src/lib/mongodb.js",
+    "src/app/api/subscribe/route.js",
+    "src/models/Subscriber.ts",
+    "lib/mongodb.js"
+  ],
   "exclude": [
     "node_modules"
   ]
