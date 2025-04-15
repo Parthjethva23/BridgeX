@@ -66,7 +66,7 @@ const Header = () => {
                 }`}
               >
                 <Image
-                  src="/images/logo/BridgeXlogo.png"
+                  src="/images/logo/BridgeX_web.png"
                   alt="logo"
                   width={200}
                   height={60}

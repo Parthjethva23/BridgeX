@@ -13,7 +13,7 @@ const Footer = () => {
           style={{ top: "10px", position: "relative" }}>
             <Link href="/" className="inline-block mb-6">
               <Image
-                src="/images/logo/BridgeXlogo.png"
+                src="/images/logo/BridgeX_web.png"
                 alt="BridgeX Logo"
                 width={150}
                 height={40}
