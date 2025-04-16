@@ -27,7 +27,7 @@ const Video = () => {
             >
               <div className="relative aspect-[77/40] items-center justify-center">
                 <Image
-                  src="/images/video/video.jpg"
+                  src="/images/video/BridgeX video.png"
                   alt="BridgeX video preview"
                   layout="fill"
                   objectFit="cover"
@@ -61,7 +61,7 @@ const Video = () => {
         autoplay={true}
         start={true}
         isOpen={isOpen}
-        videoId="L61p2uyiMSo"  // Replace with your actual BridgeX video ID
+        videoId="hbVLjI6agT4"  // Replace with your actual BridgeX video ID
         onClose={() => setOpen(false)}
       />
 
