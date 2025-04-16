@@ -99,11 +99,8 @@ export default function SigninPageClient() {
                             // Store the state of 'Remember me' if necessary
                           }}
                         />
-                        <div className="box mr-4 flex h-5 w-5 items-center justify-center rounded border border-body-color border-opacity-20 dark:border-white dark:border-opacity-10">
-                          <span className="opacity-0"></span>
-                        </div>
+                      
                       </div>
-                      Keep me signed in
                     </label>
                   </div>
                   <div>
