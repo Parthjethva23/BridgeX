@@ -31,7 +31,7 @@ export default function SignupPage() {
     if (res.ok) {
       localStorage.setItem("isLoggedIn", "true");
       setMessage("Signup successful! Redirecting...");
-      setTimeout(() => router.push("/"), 1500);
+      setTimeout(() => router.push("/dashboard"), 1500); // Redirect to dashboard
     } else {
       setMessage(data.message || "Signup failed. Please try again.");
     }
@@ -91,7 +91,10 @@ export default function SignupPage() {
                 </div>
 
                 <div className="mb-6">
-                  <button className="shadow-submit dark:shadow-submit-dark flex w-full items-center justify-center rounded-sm bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90" disabled={loading}>
+                  <button
+                    className="shadow-submit dark:shadow-submit-dark flex w-full items-center justify-center rounded-sm bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90"
+                    disabled={loading}
+                  >
                     {loading ? "Creating account..." : "Sign up"}
                   </button>
                 </div>
